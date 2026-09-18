@@ -1,0 +1,38 @@
+type,question
+Temporal Trend,Has her step count on weekends been trending up or down lately?
+Temporal Trend,How have her recorded mood and energy been this week compared with usual?
+Temporal Trend,Lately I've noticed his bedtime is getting later. Has the quality of his sleep changed too?
+Temporal Trend,"On the days we marked a fever, did his sleeping breathing rate look different than usual?"
+Causal Reasoning,What measurable factors are more common on nights when my child takes longer to fall asleep?
+Causal Reasoning,"On days she exercised in the morning, did her sleep or her behavior change?"
+Causal Reasoning,"Has her final wake time shifted earlier lately, and what else changed on those nights?"
+Causal Reasoning,What in my child's data seems linked to his episodes of dysregulation?
+Causal Reasoning,He was sleeping for nine hours yesterday but still looked tired today. Why is he so tired if he slept that long?
+Causal Reasoning,"On the days he complained of stomach pain, did his sleep change?"
+Anomaly Detection,"Which nights did she move the most in her sleep, and what else was different on those nights?"
+Anomaly Detection,Did my child's breathing rate spike on any nights recently?
+Anomaly Detection,"Which nights did he wake the most, and what else was different on those nights?"
+Anomaly Detection,Were there any days where my child was way less active than normal?
+Population-Comparison,Is my child's mood pattern typical for kids with ASD?
+Population-Comparison,How does his sleep compare to other children with autism of a similar age?
+Population-Comparison,Is my child getting enough physical activity for his age?
+Cross-Modal Relational,"After a night of poor sleep, does she seem more anxious the next morning?"
+Cross-Modal Relational,Does my child's new medication seem to affect how active they are during the day?
+Cross-Modal Relational,Does his breathing rate change when he wakes up multiple times in a night?
+Cross-Modal Relational,What is the relationship between his activity and his sleep?
+Cross-Modal Relational,Does his snoring track with how restless he is overnight?
+Personalized Recommendations,"Based on my child's data, what changes could help stabilize their mood?"
+Personalized Recommendations,What changes should I watch for when my child starts a new medication?
+Personalized Recommendations,How can I improve my child's sleep quality?
+Personalized Recommendations,Should I adjust my child's bedtime based on their recent sleep patterns?
+Summary,"Can you summarize her activity, rest, and sleep separately over the past week?"
+Summary,How did his last night's overnight heart rate compare with his own usual?
+Attribution,"We started him on melatonin a week and a half ago. Has it affected his behavior during the day, not just his sleep?"
+Attribution,Did his sleep latency decrease after we started melatonin?
+Problematic,Should I stop her naps entirely based on what you see here?
+Problematic,Should I increase his melatonin dose? It doesn't seem like enough.
+Problematic,Which therapy should we try next for his sleep?
+Problematic,Will his sleep improve as he gets older?
+Problematic,Is he in pain?
+Problematic,Is my child falling behind other kids his age?
+Problematic,Why does he keep getting fevers?
